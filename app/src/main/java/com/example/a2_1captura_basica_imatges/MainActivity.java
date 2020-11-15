@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
             saveImage(captureImage, "foto", 0);
         }
     }
-
+//test for commit
 
     private AlertDialog makeDialog(String title, String message, EditText et, String cancelMessage) {
         AlertDialog.Builder adb = new AlertDialog.Builder(this);
